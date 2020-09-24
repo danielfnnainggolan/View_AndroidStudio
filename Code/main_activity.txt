@@ -1,0 +1,3 @@
+if (getSupportActionBar() != null) {
+            getSupportActionBar().setTitle("Google Pixel");
+        }
